@@ -15,5 +15,4 @@ Used SQL for initial data exploration and Power BI for modeling and visualizatio
 🛠 Tools Used
 
 SQL
-
 Power BI
